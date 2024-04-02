@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "img": "./imagens/produto1.png",
+    "width": "225px",
+    "height": "337px",
+    "marginRight": "150px",
+    "nome": "Ajuga reptans",
+    "valor": 20.0
+  },
+  {
+    "id": 2,
+    "img": "./imagens/produto2.png",
+    "width": "330px",
+    "height": "220px",
+    "marginRight": "100px",
+    "nome": "Cordyline fruticosa",
+    "valor": 20.0
+  },
+  {
+    "id": 3,
+    "img": "./imagens/produto3.png",
+    "width": "276px",
+    "height": "414px",
+    "marginRight": "130px",
+    "nome": "Crassula ovata",
+    "valor": 20.0
+  },
+  {
+    "id": 4,
+    "img": "./imagens/produto4.png",
+    "width": "237.36px",
+    "height": "356.04px",
+    "marginRight": "150px",
+    "rotate": "38.4deg",
+    "nome": "Cyperus rotundus",
+    "valor": 20.0
+  },
+  {
+    "id": 5,
+    "img": "./imagens/produto5.png",
+    "width": "400px",
+    "height": "267px",
+    "marginRight": "150px",
+    "nome": "Delairea odorata",
+    "valor": 20.0
+  },
+  {
+    "id": 6,
+    "img": "./imagens/produto6.png",
+    "width": "166px",
+    "height": "248px",
+    "marginRight": "210px",
+    "rotate": "38.96deg",
+    "nome": "Datura metel",
+    "valor": 20.0
+  }
+]
