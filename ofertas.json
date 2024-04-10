@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "img": "../../img/produtos/1/produto.png",
+    "img": "/img/produtos/1/produto.png",
     "width": "225px",
     "height": "337px",
     "marginRight": "150px",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "img": "../../img/produtos/2/produto.png",
+    "img": "/img/produtos/2/produto.png",
     "width": "330px",
     "height": "220px",
     "marginRight": "100px",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "img": "../../img/produtos/3/produto.png",
+    "img": "/img/produtos/3/produto.png",
     "width": "276px",
     "height": "414px",
     "marginRight": "130px",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "img": "../../img/produtos/4/produto.png",
+    "img": "/img/produtos/4/produto.png",
     "width": "237.36px",
     "height": "356.04px",
     "marginRight": "150px",
@@ -38,7 +38,7 @@
   },
   {
     "id": 5,
-    "img": "../../img/produtos/5/produto.png",
+    "img": "/img/produtos/5/produto.png",
     "width": "400px",
     "height": "267px",
     "marginRight": "150px",
@@ -47,7 +47,7 @@
   },
   {
     "id": 6,
-    "img": "../../img/produtos/6/produto.png",
+    "img": "/img/produtos/6/produto.png",
     "width": "166px",
     "height": "248px",
     "marginRight": "210px",
