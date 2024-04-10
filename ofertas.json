@@ -6,7 +6,7 @@
     "height": "337px",
     "marginRight": "150px",
     "nome": "Ajuga reptans",
-    "valor": 20.0
+    "valor": 10.90
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "height": "220px",
     "marginRight": "100px",
     "nome": "Cordyline fruticosa",
-    "valor": 20.0
+    "valor": 15.50
   },
   {
     "id": 3,
@@ -24,7 +24,7 @@
     "height": "414px",
     "marginRight": "130px",
     "nome": "Crassula ovata",
-    "valor": 20.0
+    "valor": 9.90
   },
   {
     "id": 4,
@@ -34,7 +34,7 @@
     "marginRight": "150px",
     "rotate": "38.4deg",
     "nome": "Cyperus rotundus",
-    "valor": 20.0
+    "valor": 12.10
   },
   {
     "id": 5,
@@ -43,7 +43,7 @@
     "height": "267px",
     "marginRight": "150px",
     "nome": "Delairea odorata",
-    "valor": 20.0
+    "valor": 29.90
   },
   {
     "id": 6,
@@ -53,6 +53,6 @@
     "marginRight": "210px",
     "rotate": "38.96deg",
     "nome": "Datura metel",
-    "valor": 20.0
+    "valor": 57.90
   }
 ]
